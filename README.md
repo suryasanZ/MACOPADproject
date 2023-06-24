@@ -4,3 +4,5 @@ MACOPAD menggunakan NodeMCU ESP8266 dengan sensor berupa DHT11 Sensor untuk mend
 
 MACOPAD dilengkapi dengan indikator suhu menggunakan LCD menampilkan temperatur dan kondisi kipas serta fitur AutoMAC ON dan AutoMAC OFF
 
+t[alt text](https://github.com/suryasanZ/MACOPADproject/blob/main/MACOPADpict.jpg)
+
